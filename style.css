@@ -1,0 +1,30 @@
+html{
+    background-color: rgb(19, 18, 18);
+    display: flex;
+    justify-content: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h3{
+    margin: 12%;
+}
+#textbox{
+    margin-left: 15%;
+    height:250px;
+    width: 400px;
+    border-radius: 10px;
+
+}
+#textbox:hover{
+    background-color: rgb(34, 52, 53);
+}
+form{
+    display: flex;
+    justify-content:safe;
+}
+#sub{
+    border-radius: 10px;
+}
+#sub:hover{
+    background-color: rgb(0, 56, 0);
+    color: black;
+}
